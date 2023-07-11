@@ -20,3 +20,5 @@ Source: US Census Bureau
 - Forecasting
 - Storytelling in Tableau 
 - Presenting results to an audience
+
+[Storytelling with Tableau](https://public.tableau.com/app/profile/yusuf.salk/viz/Task2_9-StorytellingwiththeInfluenzaDataset/Storyboard?publish=yes)
