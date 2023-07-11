@@ -10,13 +10,13 @@ Source: CDC
 Source: US Census Bureau
 
 # Skills/Tools/Procedures
-Excel
-Translating business requirements
-Data cleaning
-Data integration
-Data transformation 
-Statistical hypothesis testing 
-Visual analysis
-Forecasting
-Storytelling in Tableau 
-Presenting results to an audience
+- Excel
+- Translating business requirements
+- Data cleaning
+- Data integration
+- Data transformation 
+- Statistical hypothesis testing 
+- Visual analysis
+- Forecasting
+- Storytelling in Tableau 
+- Presenting results to an audience
